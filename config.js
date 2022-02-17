@@ -30,6 +30,8 @@ const CONFIG = {
   weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
+  weatherLatitude: '34.366',
+  weatherLongitude: '-89.518',
 
   trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '34.366',
