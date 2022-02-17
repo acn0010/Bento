@@ -73,21 +73,21 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Search',
+      icon: 'search',
+      link: 'https://duckduckgo.com',
     },
     {
       id: '5',
       name: 'Reddit',
-      icon: 'glasses',
+      icon: 'ghost',
       link: 'https://reddit.com',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -141,42 +141,42 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Lo-Fi',
+          link: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Radiohead',
+          link: 'https://www.youtube.com/watch?v=TnvzakAqlPM',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'The Smiths',
+          link: 'https://www.youtube.com/watch?v=3RSt0QbxPGI',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Sadness',
+          link: 'https://www.youtube.com/watch?v=pkSyBkk99VE',
         },
       ],
     },
     {
-      icon: 'coffee',
+      icon: 'droplet',
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Mullvad',
+          link: 'https://mullvad.net/en/check',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Arch Wiki',
+          link: 'https://wiki.archlinux.org',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Divice Info',
+          link: 'https://www.deviceinfo.me/#',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Hckr News',
+          link: 'https://hckrnews.com',
         },
       ],
     },
