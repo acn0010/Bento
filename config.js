@@ -86,7 +86,7 @@ const CONFIG = {
     {
       id: '6',
       name: 'Arch Wiki',
-      icon: 'terminal',
+      icon: 'code-2',
       link: 'https://wiki.archlinux.org/',
     },
   ],
@@ -159,7 +159,7 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'droplet',
+      icon: 'terminal',
       id: '2',
       links: [
         {
