@@ -62,7 +62,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'Mail',
-      icon: 'mail',
+      icon: 'send',
       link: 'https://mail.protonmail.com/',
     },
     {
@@ -80,7 +80,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'Reddit',
-      icon: 'ghost',
+      icon: 'arrow-big-up',
       link: 'https://reddit.com',
     },
     {
