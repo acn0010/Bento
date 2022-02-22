@@ -167,12 +167,12 @@ const CONFIG = {
           link: 'https://mullvad.net/en/check',
         },
         {
-          name: 'Arch Wiki',
-          link: 'https://wiki.archlinux.org',
+          name: 'Divice Info',
+          link: 'https://deviceinfo.me',
         },
         {
-          name: 'Divice Info',
-          link: 'https://www.deviceinfo.me/#',
+          name: 'Arch Wiki',
+          link: 'https://www.wiki.archlinux.org',
         },
         {
           name: 'Hckr News',
