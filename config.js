@@ -172,7 +172,7 @@ const CONFIG = {
         },
         {
           name: 'Arch Wiki',
-          link: 'https://wiki.archlinux.org/,
+          link: 'https://wiki.archlinux.org/',
         },
         {
           name: 'Hckr News',
