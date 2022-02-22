@@ -73,15 +73,15 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Search',
-      icon: 'search',
-      link: 'https://duckduckgo.com',
-    },
-    {
-      id: '5',
       name: 'Reddit',
       icon: 'arrow-big-up',
       link: 'https://reddit.com',
+    },
+    {
+      id: '5',
+      name: 'Search',
+      icon: 'search',
+      link: 'https://duckduckgo.com',
     },
     {
       id: '6',
