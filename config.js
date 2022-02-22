@@ -168,7 +168,7 @@ const CONFIG = {
         },
         {
           name: 'Divice Info',
-          link: 'https://deviceinfo.me',
+          link: 'https://deviceinfo.me/#',
         },
         {
           name: 'Arch Wiki',
