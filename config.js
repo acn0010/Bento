@@ -38,10 +38,10 @@ const CONFIG = {
   defaultLongitude: '-89.518',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
-  changeThemeByOS: true,
+  changeThemeByOS: false,
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: false,
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com',
     },
     {
       id: '4',
@@ -85,9 +85,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Youtube',
-      icon: 'youtube',
-      link: 'https://youtube.com/',
+      name: 'Arch Wiki',
+      icon: 'terminal',
+      link: 'https://wiki.archlinux.org/',
     },
   ],
 
