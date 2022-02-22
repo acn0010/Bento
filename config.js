@@ -85,9 +85,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Arch Wiki',
-      icon: 'code-2',
-      link: 'https://wiki.archlinux.org',
+      name: 'TPB',
+      icon: 'skull',
+      link: 'https://thepiratebay.org/index.html',
     },
   ],
 
