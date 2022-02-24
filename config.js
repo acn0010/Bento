@@ -167,7 +167,7 @@ const CONFIG = {
           link: 'https://mullvad.net/en/check',
         },
         {
-          name: 'Divice Info',
+          name: 'Device Info',
           link: 'https://deviceinfo.me/#',
         },
         {
