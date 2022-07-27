@@ -175,8 +175,8 @@ const CONFIG = {
           link: 'https://wiki.archlinux.org/',
         },
         {
-          name: 'Hckr News',
-          link: 'https://hckrnews.com',
+          name: 'Soap',
+          link: 'https://soap2day.do',
         },
       ],
     },
