@@ -142,7 +142,7 @@ const CONFIG = {
       links: [
         {
           name: 'Lo-Fi',
-          link: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
+          link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
         },
         {
           name: 'Radiohead',
