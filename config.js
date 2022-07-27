@@ -81,7 +81,7 @@ const CONFIG = {
       id: '5',
       name: 'Search',
       icon: 'search',
-      link: 'https://duckduckgo.com',
+      link: 'https://searx.space',
     },
     {
       id: '6',
