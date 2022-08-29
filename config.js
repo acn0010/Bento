@@ -175,7 +175,7 @@ const CONFIG = {
           link: 'https://wiki.archlinux.org/',
         },
         {
-          name: 'BrowserLeaks',
+          name: 'Browser Check',
           link: 'https://browserleaks.com/',
         },
       ],
