@@ -175,8 +175,8 @@ const CONFIG = {
           link: 'https://wiki.archlinux.org/',
         },
         {
-          name: 'Soap',
-          link: 'https://soap2day.do',
+          name: 'BrowserLeaks',
+          link: 'https://browserleaks.com/',
         },
       ],
     },
