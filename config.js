@@ -171,12 +171,12 @@ const CONFIG = {
           link: 'https://deviceinfo.me/#',
         },
         {
-          name: 'Arch Wiki',
-          link: 'https://wiki.archlinux.org/',
+          name: 'Browser Check', 
+          link: 'https://browserleaks.com',
         },
         {
-          name: 'Browser Check',
-          link: 'https://browserleaks.com/',
+          name: 'Arch Wiki',
+          link: 'https://wiki.archlinux.org/',
         },
       ],
     },
