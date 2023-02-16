@@ -62,7 +62,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'Mail',
-      icon: 'send',
+      icon: 'mail-open',
       link: 'https://mail.protonmail.com/',
     },
     {
